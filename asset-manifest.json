@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/club-website-master-2/static/css/main.c6a1a55c.css",
-    "main.js": "/club-website-master-2/static/js/main.2675a013.js",
+    "main.js": "/club-website-master-2/static/js/main.6a610daa.js",
     "static/js/787.b075e410.chunk.js": "/club-website-master-2/static/js/787.b075e410.chunk.js",
     "static/media/team-bg.mp4": "/club-website-master-2/static/media/team-bg.1a91cb3b32a539842dba.mp4",
     "static/media/Piyush.jpg": "/club-website-master-2/static/media/Piyush.2c9ce5c2c721b7f2cc73.jpg",
@@ -63,11 +63,11 @@
     "static/media/envelope-solid.svg": "/club-website-master-2/static/media/envelope-solid.e097336f4e33827be942e2c35296dbca.svg",
     "static/media/square-facebook.svg": "/club-website-master-2/static/media/square-facebook.bb281c7fe5085e0a931d100e72878110.svg",
     "main.c6a1a55c.css.map": "/club-website-master-2/static/css/main.c6a1a55c.css.map",
-    "main.2675a013.js.map": "/club-website-master-2/static/js/main.2675a013.js.map",
+    "main.6a610daa.js.map": "/club-website-master-2/static/js/main.6a610daa.js.map",
     "787.b075e410.chunk.js.map": "/club-website-master-2/static/js/787.b075e410.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c6a1a55c.css",
-    "static/js/main.2675a013.js"
+    "static/js/main.6a610daa.js"
   ]
 }
